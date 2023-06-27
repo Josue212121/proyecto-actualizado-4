@@ -1,0 +1,14 @@
+.card-discusion {
+border-radius: 30px;
+background: #212121;
+box-shadow: 15px 15px 30px rgb(25, 25, 25),
+                -15px -15px 30px rgb(60, 60, 60);
+position: absolute;
+top: 66%;
+left: 48%;
+transform: translate(-50%, -50%);
+width: 1804px; /* O cualquier otro valor que desees */
+height: 625px; /* O cualquier otro valor que desees */
+              
+              
+   }
